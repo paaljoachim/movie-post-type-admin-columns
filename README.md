@@ -1,4 +1,4 @@
-# movie-post-type-admin-columns
-Add a custom movie post type and adjust the post and custom movie list screens
+# Add a custom movie post type and adjust the post and custom movie list screens
+I added it into a plugin.
 
-![Front page screenshot of AIScripts](https://user-images.githubusercontent.com/5323259/44140193-9d087a2c-a079-11e8-9803-9fbcc5a3c5e9.jpg "Screenshot")
+![Front page screenshot of AIScripts](https://user-images.githubusercontent.com/5323259/44167844-913a6d80-a0cf-11e8-82af-cadeb65a0d09.jpg "Custom Movie Post type and adjusted post list columns")
